@@ -15,9 +15,8 @@ dotnet test xUnit.Tests/xUnit.Tests.csproj --logger "console;verbosity=normal"
 dotnet test NUnit.Tests/NUnit.Tests.csproj --logger "console;verbosity=normal"
 ```
 
-Зафиксируйте итоговый счётчик и время из вывода Test Explorer или консоли. Если тесты падают из-за недоступности публичного Petstore API, укажите это отдельно.
 
-## 2. Качественная оценка
+## 2. качественная оценка
 
 Шкала: 1 — неудобно/сложно, 5 — удобно/понятно. Оценки ниже являются стартовым шаблоном: после работы с обоими фреймворками скорректируйте их по собственным наблюдениям.
 
