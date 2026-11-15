@@ -12,6 +12,6 @@ dotnet test NUnit.Tests/NUnit.Tests.csproj --logger "console;verbosity=normal"
 
 см. [Analysis.md](Analysis.md).
 
-## Контрольные вопросы
+## контрольные вопросы
 
 см. [Questions.md](Questions.md).
